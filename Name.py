@@ -4,5 +4,5 @@ num = 7
 
 
 state = inspired
-print (name + "is" state)
+print( name + "is " + state)
 
